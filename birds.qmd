@@ -1,10 +1,11 @@
 ---
 title: "Poor Bird Guide"
 format: html
-links: 
-    - icon: earlybirds
-      text: poorbirdguide
-      links: https://www.instagram.com/poorbirdguide/
+listing:
+  contents: posts
+  type: grid
+  sort: "date desc"
+  categories: true
 ---
 
 ### Welcome to the poor bird guide!

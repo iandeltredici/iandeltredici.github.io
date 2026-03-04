@@ -15,7 +15,7 @@ about:
       href: https://github.com/iandeltredici
     - icon: envelope
       text: Email
-      href: mailto:scsik@ucsb.edu
+      href: mailto:iandeltredici@gmail.com
 ---
 
 Welcome to my homepage! I’m Ian Del Tredici, a UCSB student pursuing degrees in Environmental Studies and Ecology & Evolution. This is my professional landing page where you can find everything from my academic coursework to my personal interests. Feel free to explore!
