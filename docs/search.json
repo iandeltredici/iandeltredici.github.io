@@ -1,10 +1,10 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Ian Del Tredici",
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
     "section": "",
-    "text": "Welcome to my homepage! I’m Ian Del Tredici, a UCSB student pursuing degrees in Environmental Studies and Ecology & Evolution. This is my professional landing page where you can find everything from my academic coursework to my personal interests. Feel free to explore!"
+    "text": "All my current and past projects!"
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,12 @@
     "title": "About",
     "section": "",
     "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Ian Del Tredici",
+    "section": "",
+    "text": "Welcome to my homepage! I’m Ian Del Tredici, a UCSB student pursuing degrees in Environmental Studies and Ecology & Evolution. This is my professional landing page where you can find everything from my academic coursework to my personal interests. Feel free to explore!"
   }
 ]
