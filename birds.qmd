@@ -3,7 +3,7 @@ title: "Poor Bird Guide"
 format: html
 links: 
     - icon: earlybirds
-      text: poorbirdguid
+      text: poorbirdguide
       links: https://www.instagram.com/poorbirdguide/
 ---
 

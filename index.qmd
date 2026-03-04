@@ -1,18 +1,21 @@
 ---
-title: "Ian Del Tredici"
-image: media/headshotv2.jpeg
-toc: false
+title: "Ian Del Tredici" #title of website (in top left corner)
+image: media/headshotv2.jpeg #profile image
+toc: false #no table of contents
 about:
   template: jolla
   image-shape: round
   image-width: 17em
-  links:
-    - text: LinkedIn
+  links: #creates buttons
+    - icon: linkedin
+      text: LinkedIn
       href: https://www.linkedin.com/in/iandeltredici013/
-    - text: GitHub
+    - icon: github
+      text: GitHub
       href: https://github.com/iandeltredici
-    - text: Email
-      href: iandeltredici@gmail.com
+    - icon: envelope
+      text: Email
+      href: mailto:scsik@ucsb.edu
 ---
 
 Welcome to my homepage! I’m Ian Del Tredici, a UCSB student pursuing degrees in Environmental Studies and Ecology & Evolution. This is my professional landing page where you can find everything from my academic coursework to my personal interests. Feel free to explore!
