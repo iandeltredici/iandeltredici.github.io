@@ -1,7 +1,18 @@
 ---
-title: "iandeltredici.github.io"
+title: "Ian Del Tredici"
+image: media/headshotv2.jpeg
+toc: false
+about:
+  template: jolla
+  image-shape: round
+  image-width: 17em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/iandeltredici013/
+    - text: GitHub
+      href: https://github.com/iandeltredici
+    - text: Email
+      href: iandeltredici@gmail.com
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Welcome to my homepage! I’m Ian Del Tredici, a UCSB student pursuing degrees in Environmental Studies and Ecology & Evolution. This is my professional landing page where you can find everything from my academic coursework to my personal interests. Feel free to explore!
