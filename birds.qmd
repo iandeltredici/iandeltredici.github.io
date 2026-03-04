@@ -1,0 +1,7 @@
+---
+title: "Poor Bird Guide"
+format: html
+---
+
+### Welcome to the poor bird guide!
+The birds aren't poor, your guide is.

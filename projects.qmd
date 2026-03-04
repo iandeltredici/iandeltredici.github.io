@@ -2,4 +2,4 @@
 title: "Projects"
 format: html
 ---
-# All my current and past projects!
+### All my current and past projects!

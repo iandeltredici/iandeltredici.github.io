@@ -10,6 +10,9 @@ website:
         text: Home
       - about.qmd
       - projects.qmd
+      - birds.qmd
+      - resume.qmd
+      
 
 format:
   html:
