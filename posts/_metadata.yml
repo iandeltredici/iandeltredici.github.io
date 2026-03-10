@@ -3,3 +3,6 @@ freeze: auto
 
 # enable banner style title blocks ----
 title-block-banner: true
+format:
+  html:
+    include-after-body: _footer.html
