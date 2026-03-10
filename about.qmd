@@ -1,5 +1,7 @@
 ---
 title: "About Me"
+subtitle: "A little bit about me!"
+toc: TRUE
 ---
 
 About this site
