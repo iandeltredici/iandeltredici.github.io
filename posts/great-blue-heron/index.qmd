@@ -4,14 +4,27 @@ description: "Ardea herodias"
 date: 12-22-2025
 categories: [big birds]
 image: great-blue-heron-1.JPG
+format: html
 ---
-I cannot believe I got a picture of this bird. This is the equivalent of finding LeBron James in your backyard. Or Harry Styles. Just pure royalty. The great blue heron is the king of all birds, and it knows it. The eye liner, the blue cap, the posture, everything just screams I’m better than you and there’s nothing you can do about it. I truly can’t believe nature kept popping out birds after this one. Like just give up at this point. You did it. You created a pristine specimen. You can’t beat it.
+------------------------------------------------------------------------
 
-```{r}
-#| echo: false
-#| out-width: 15%
-knitr::include_graphics("great-blue-heron-1.JPG")
-```
+::: {layout="[[1, 1, 1, 1]]"} 
+![](images/great-blue-heron-1.JPG){group="aa"
+description="Great blue heron"}
+
+![](images/great-blue-heron-1.JPG){group="aa"
+description="Great blue heron"}
+
+![](images/great-blue-heron-1.JPG){group="aa"
+description="Great blue heron"}
+
+![](images/great-blue-heron-1.JPG){group="aa"
+description="Great blue heron"}
+
+:::
+
+------------------------------------------------------------------------
+I cannot believe I got a picture of this bird. This is the equivalent of finding LeBron James in your backyard. Or Harry Styles. Just pure royalty. The great blue heron is the king of all birds, and it knows it. The eye liner, the blue cap, the posture, everything just screams I’m better than you and there’s nothing you can do about it. I truly can’t believe nature kept popping out birds after this one. Like just give up at this point. You did it. You created a pristine specimen. You can’t beat it.
 
 If you ever stop and watch a Great Blue Heron for a while (highly recommend) like your sister watches The Bachelor (no makeup, pizza rolls, full commitment) you’ll notice just how much patience and poise this bird has when hunting. I kid you not this bird could be a 3rd grade substitute teacher and those chums would be sitting on their tiny desks doing multiplication tables by 10am. Just a bird that exudes serenity. This bird that will watch a full soccer game, no breaks, no snacks, not even a twitch towards its phone at the 60th minute. Professors wish this bird would come to their classes.
 
