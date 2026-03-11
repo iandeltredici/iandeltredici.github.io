@@ -7,12 +7,12 @@ toc: FALSE
 about:
   template: jolla
   image: bird_guide_logo.jpg
-  image-width: 100px
+  image-width: 150px
   links: 
     - icon: instagram
       text: "@poorbirdguide"
       href: https://www.instagram.com/poorbirdguide/
 format:
   html:
-    css: styles.css
+    css: bird-styles.css
       

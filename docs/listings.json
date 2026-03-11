@@ -8,19 +8,19 @@
     ]
   },
   {
-    "listing": "/projects.html",
-    "items": [
-      "/projects/short_story/index.html",
-      "/projects/personal_data/index.html",
-      "/projects/podcast/index.html"
-    ]
-  },
-  {
     "listing": "/projects/podcast/index.html",
     "items": [
       "/projects/podcast/episodes/decarb/index.html",
       "/projects/podcast/episodes/frog/index.html",
       "/projects/podcast/episodes/wastewater/index.html"
+    ]
+  },
+  {
+    "listing": "/projects.html",
+    "items": [
+      "/projects/short_story/index.html",
+      "/projects/personal_data/index.html",
+      "/projects/podcast/index.html"
     ]
   }
 ]

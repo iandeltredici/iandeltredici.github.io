@@ -1,4 +1,11 @@
 /* css styles */
+@import url('https://fonts.googleapis.com/css2?family=Merriweather&display=swap');
+
 body {
   text-align: left;
+  font-family: 'Georgia', serif;
+}
+
+h1, h2, h3, h4 {
+  font-family: "Merriweather", serif;
 }
