@@ -2,8 +2,9 @@
 title: "Projects"
 format: html
 listing:
-  contents: projects
+  contents: 
+    - "projects/*/index.qmd"
   type: grid
 ---
-### All my current and past projects!
+### Some my current and past projects!
 

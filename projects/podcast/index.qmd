@@ -1,10 +1,12 @@
 ---
 title: "The Environment of It All Podcast"
 description: |
-  A student-run environmental podcast that I produce and have been apart of since Fall 2024.
+  A student-run environmental podcast that I produce.
 image: Logo.png
+image-height: 100px
+sort: desc
 listing:
-  contents: projects/podcast/episodes
+  contents: episodes
   type: grid
 ---
 [The Environment of It All](https://open.spotify.com/show/6b8Am69QUIkuSw2Djrq07G?si=1d21a232a5ee42fb)
@@ -13,4 +15,4 @@ In late 2024 I joined the Environment of It All podcast, a student-run podcast d
 
 I came on primarily as a writing intern, helping edit episodes and drafting short blurbs about each guest. Since then I have gradually moved up, becoming assistant producer in 2025 before graduating fully to executive producer. As the manager of our 6 lovely team members I am responsible for coordinating interviews, organizing team meetings, and keeping everybody on track. I sit in on editing sessions, oversee public events, and generally provide a structure for the rest of the team to perform. As I've grown into this role I've seen my leadership skills develop immensely while also learning a great deal about each topic. One of my favorite things is to dive deep into the research of a guest, exploring their topic and brainstorming interesting questions. It's such a delight to watch their eyes gleam as they allow us into their passions.
 
-See some of our most recent episodes below!
+**See some of our most recent episodes below!**

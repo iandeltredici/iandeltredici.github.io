@@ -1,0 +1,7 @@
+---
+title: "A personal data project from ENVS 193DS"
+description: |
+  A statistical look at my reading time.
+image: penguin_reading.gif
+---
+

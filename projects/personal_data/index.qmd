@@ -1,0 +1,81 @@
+---
+title: "A personal data project from ENVS 193DS"
+description: |
+  A statistical look at my reading time.
+image: penguin_reading.gif
+image-height: 100px
+---
+This is a sample of my code from a personal data project in my Environmental Statistics class. I collected data on how much time I spent reading each genre over the course of 5 weeks before plotting it and running a few tests.
+**The BIG Question: Does reading genre affect how long I read?**
+
+#### Step 1: Load in libraries and data
+```{r}
+#| label: read in packages and data
+#| message: false
+library(tidyverse) #load in packages
+library(here)
+library(janitor)
+library(readxl)
+library(ggeffects)
+reading_data <- read.csv( #read in personal data using here function
+  here("data", "time_spent_reading.csv"))
+```
+#### Step 2: Clean up the data frame
+```{r}
+#| label: cleaning data frame
+#| echo: true
+#| message: false
+reading_data <- reading_data |>  #use reading data frame
+  clean_names() |> #clean column names
+  rename("reading_time" = "time_spent_reading_min", #rename columns
+         "genre" = "reading_type")
+```
+#### Step 3: Create a boxplot comparing the median reading session length of each genre
+```{r}
+#| label: creating graphs
+#| echo: true
+#| message: false
+#| fig-cap: "Figure 1. There is no difference in length of reading session across genre. Each genre contains a box plot displaying the median reading length, upper and lower quartiles, and minimum and maximum. Outliers are hid for visual clarity but each genre’s highest point is classified as an outlier. Individual observations are layered on as data points. Genres are separated by color (pink: News, green: Nonfiction Novels, purple: Research Paper). All genres overlap with nearly identical medians. Data collected from January 6, 2026 to March 1, 2026 by Ian Del Tredici."
+ggplot(data = reading_data, #create base layer with personal data
+       aes(x = genre, #set x axis
+           y = reading_time, #set y axis
+           color = genre, #color by genre
+           fill = genre)) + #fill by genre
+  geom_boxplot(width = 0.6, #create box plot and set width
+               alpha = 0.2, #set transparency of box plot
+               outliers = FALSE) + #remove outliers 
+  geom_jitter(height = 0, #create jitter plot and restrict vertical jitter
+              width = 0.2) + #set horizontal jitter
+  labs(title = "Length of reading session per genre", #plot title
+       x = "Genre", #x axis title
+       y = "Time spent reading (min)", #y axis title
+       subtitle = "March 1, 2026") + #subtitle
+  theme_minimal() + #set theme to minimal
+  scale_color_manual(values = c( #change colors manually
+    "Nonfiction Novels" = "darkgreen",
+    "Research Paper" = "darkorchid",
+    "News" = "coral2"))
+```
+
+#### Step 4: Create a scatterplot of the relationship between the number of pages read and reading length by genre
+```{r}
+#| label: scatterplots
+#| echo: true
+#| fig-cap: "Figure 2. As the number of pages increases, reading time also increases. Points represent individual reading sessions with time of session (min) and number of pages recorded. Colors represent the three types of reading genres (coral: News, green: Nonfiction Novels, and blue: Research Paper). Panels also divide genres. Data collected from January 6, 2026 to March 1, 2026 by Ian Del Tredici."
+ggplot(data = reading_data, #create plot with personal data
+       aes(x = number_of_pages,#set x axis
+           y = reading_time, #set y axis
+           color = genre)) + #separate by color and genre
+  geom_point(size = 3) + #add in individual data and adjust size
+  labs(title = "Reading session per number of pages", #add title
+       x = "Number of pages", #set x axis title
+       y = "Reading time (min)",#set y axis title
+       subtitle = "March 1, 2026") + 
+  theme_gray() + #change theme
+  scale_color_manual(values = c( #change colors manually
+    "Nonfiction Novels" = "darkgreen",
+    "Research Paper" = "darkorchid",
+    "News" = "coral2")) +
+  facet_wrap(~genre) + #separate by genre
+  theme(legend.position = "none") #remove legend
+```

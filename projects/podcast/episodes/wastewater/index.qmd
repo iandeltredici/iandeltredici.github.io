@@ -1,8 +1,9 @@
 ---
 title: "The Environment of: Wastebacteria"
 description: |
- Listen to Trace Martin distill the wondoers of our wastewater treatment system!
+ Listen to Trace Martin distill the wonders of our wastewater treatment system!
 image: wastewater_ep.png
+date: 02-11-2026
 format:
   html:
     lightbox: TRUE
@@ -17,10 +18,11 @@ Throughout the episode Trace shares his unconventional path from Santa Barbara C
 
 Tune in for a fascinating look at the science behind wastewater and the people working behind the scenes to treat it.
 
+### Show Notes
 Guest: Trace Martin 
 
 Our Instagram: @envionmentofitall
-Our LinkedIn:  
+[Our LinkedIn](https://www.linkedin.com/in/theenvironmentofitall/)
 
 ### Credits: 
 Kylie Keenan - Host 

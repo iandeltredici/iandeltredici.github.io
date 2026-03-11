@@ -10,12 +10,17 @@
   {
     "listing": "/projects.html",
     "items": [
-      "/projects/podcast/index.html",
-      "/projects/podcast/episodes/index.html"
+      "/projects/short_story/index.html",
+      "/projects/personal_data/index.html",
+      "/projects/podcast/index.html"
     ]
   },
   {
     "listing": "/projects/podcast/index.html",
-    "items": []
+    "items": [
+      "/projects/podcast/episodes/decarb/index.html",
+      "/projects/podcast/episodes/frog/index.html",
+      "/projects/podcast/episodes/wastewater/index.html"
+    ]
   }
 ]

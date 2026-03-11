@@ -1,0 +1,39 @@
+---
+title: "The Environment of: The Frog Fungus"
+description: |
+ Enter the wild world of frog fungi with guest Cannon Mallory as he seeks to understand the deadliest plauge among amphibians
+image: frog_ep.png
+date: 08-05-2025
+format:
+  html:
+    lightbox: TRUE
+---
+
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/episode/4KEl8rNIBfInUhNFnqegV5?utm_source=generator&t=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+In this episode, hosts Jasmine Schwam and Kylie Keenan speak with Cannon Mallory, a fourth year PhD candidate at Bren studying disease ecology and the devastating frog fungus known as Batrachochytrium dendrobatidis (Bd). Throughout this episode Cannon delves into the mystery of this deadly disease- how it works, how it moves through an environment, and why its effects differ between populations. Cannon walks us through his journey from engineer to herpetologist while also discussing some of the most fascinating amphibian anomalies to date. Join us as we learn more about everyone’s favorite green little critters and why pseudacris cadaverina is the frog to be. 
+
+### Show Notes
+Guest: Cannon Mallory 
+
+Our Instagram: @envionmentofitall
+[Our LinkedIn](https://www.linkedin.com/in/theenvironmentofitall/)
+
+### Credits: 
+Kylie Keenan - Host 
+Ian Del Tredici - Producer | Writer
+Leila Zavala - Assistant Producer | Social Media
+Malie Quinn - Audio Engineer & Editor 
+Cara Sandford - Writer
+Taylor Platz - Outreach Coordinator
+Jasmine Schwam - Executive Producer
+
+Original Music by Maile Quinn 
+
+
+### Special Thanks: 
+Alexandra Phillips 
+Joanna Tang 
+UCSB Science Communication Club 
+
+Sponsored by: The Green Initiative Fund (TGIF)
