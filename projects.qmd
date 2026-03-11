@@ -2,7 +2,7 @@
 title: "Projects"
 format: html
 listing:
-  contents: posts
+  contents: projects
   type: grid
 ---
 ### All my current and past projects!

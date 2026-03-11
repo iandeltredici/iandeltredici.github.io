@@ -2,7 +2,7 @@
 title: "Poor Bird Guide"
 format: html
 listing:
-  contents: posts
+  contents: birds
   type: grid
   sort: "date desc"
   categories: true

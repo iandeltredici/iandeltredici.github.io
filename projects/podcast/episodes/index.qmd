@@ -1,0 +1,42 @@
+---
+title: "The Environment of: Wastebacteria"
+description: |
+ Listen to Trace Martin distill the wondoers of our wastewater treatment system!
+image: wastewater_ep.png
+format:
+  html:
+    lightbox: TRUE
+---
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/episode/53vj9tIH8RbnrkaQ4S5N47?utm_source=generator&t=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+In this episode, host Kylie Keenan sits down with Trace Martin, a fourth-year PhD student at the Bren school studying wastewater treatment, coastal water quality, and fecal indicator bacteria. 
+
+Trace is also - unofficially but unanimously - the best TA ever!
+
+Throughout the episode Trace shares his unconventional path from Santa Barbara City College to UCSB as a Geography major before becoming the youngest lab manager in the City of Santa Barbara’s wastewater lab and ultimately pursuing a PhD that bridges hands-on lab work with academic research. From microbial ecosystems inside wastewater plants, to the regulatory hurdles of approving new testing methods, this episode demystifies an often invisible system that impacts everyone. 
+
+Tune in for a fascinating look at the science behind wastewater and the people working behind the scenes to treat it.
+
+Guest: Trace Martin 
+
+Our Instagram: @envionmentofitall
+Our LinkedIn:  
+
+### Credits: 
+Kylie Keenan - Host 
+Ian Del Tredici - Producer | Writer
+Leila Zavala - Assistant Producer | Social Media
+Malie Quinn - Audio Engineer & Editor 
+Cara Sandford - Writer
+Taylor Platz - Outreach Coordinator
+Jasmine Schwam - Executive Producer
+
+Original Music by Maile Quinn 
+
+
+### Special Thanks: 
+Alexandra Phillips 
+Joanna Tang 
+UCSB Science Communication Club 
+
+Sponsored by: The Green Initiative Fund (TGIF)
