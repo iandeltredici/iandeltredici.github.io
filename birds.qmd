@@ -4,6 +4,7 @@ format:
   html:
     css: birds/bird-styles.css
 image: "birds/bird_guide_logo.jpg"
+toc: FALSE
 listing:
   contents: birds
   type: grid

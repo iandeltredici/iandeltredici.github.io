@@ -1,5 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Baskervville+SC&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Zen+AntiqueC&display=swap');
 h1, h2, h3, h4 {
-  font-family: "Baskervville SC", serif;
-}
+  font-family: "Baskervville SC", serif;}
+
+body {
+  font-family: "Zen Antique", serif;}

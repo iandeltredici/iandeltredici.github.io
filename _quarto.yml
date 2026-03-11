@@ -22,5 +22,6 @@ format:
     css: styles.css
     toc: true
     page-layout: full
+    include-after-body: _footer.html
 
 
