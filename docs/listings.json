@@ -2,9 +2,19 @@
   {
     "listing": "/birds.html",
     "items": [
-      "/posts/northern-shoveler/index.html",
-      "/posts/great-blue-heron/index.html",
-      "/posts/canada-goose/index.html"
+      "/posts/projects/podcast/index.html",
+      "/posts/birds/northern-shoveler/index.html",
+      "/posts/birds/great-blue-heron/index.html",
+      "/posts/birds/canada-goose/index.html"
+    ]
+  },
+  {
+    "listing": "/projects.html",
+    "items": [
+      "/posts/birds/canada-goose/index.html",
+      "/posts/birds/great-blue-heron/index.html",
+      "/posts/birds/northern-shoveler/index.html",
+      "/posts/projects/podcast/index.html"
     ]
   }
 ]
