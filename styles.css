@@ -3,9 +3,21 @@
 
 body {
   text-align: left;
-  font-family: 'Georgia', serif;
-}
+  font-family: 'Georgia', serif;}
 
 h1, h2, h3, h4 {
-  font-family: "Merriweather", serif;
-}
+  font-family: "Merriweather", serif;}
+@media (prefers-color-scheme: light) {
+  body {color: #3b3228;}
+  h1, h2, h3, h4 {
+  color: #006400;}}
+
+@media (prefers-color-scheme: dark) {
+  body { color: #FFFDD0; }
+  h1, h2, h3, h4 { color: #FFFDD0; }}
+
+@media (prefers-color-scheme: light) {
+  .navbar {
+    background-color: #2d6a4f   !important;}
+  .navbar a, .navbar .nav-link {
+    color: #ffffff !important;}}
