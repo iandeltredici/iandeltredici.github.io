@@ -1,3 +1,4 @@
+/*-- scss:rules --*/
 @import url('https://fonts.googleapis.com/css2?family=Merriweather&display=swap');
 
 body {
@@ -15,12 +16,13 @@ h1, h2, h3, h4 {
   background-color: #3b4d5b !important;
 }
 
-[data-bs-theme="dark"] .navbar {
-  background-color: unset !important;
-}
-
 .navbar .nav-link,
 .navbar a,
 .navbar-brand {
   color: #ffffff !important;
+}
+
+.navbar .nav-link:hover,
+.navbar .navbar-brand:hover {
+  color: #BDE0FE !important;
 }

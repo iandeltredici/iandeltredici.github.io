@@ -12,7 +12,7 @@ website:
       - projects.qmd
       - birds.qmd
       - resume.qmd
-    css: styles.css
+    css: [styles.css, dark-styles.css]
       
 
 format:
