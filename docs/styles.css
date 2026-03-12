@@ -1,23 +1,26 @@
-/* css styles */
 @import url('https://fonts.googleapis.com/css2?family=Merriweather&display=swap');
 
 body {
   text-align: left;
-  font-family: 'Georgia', serif;}
+  font-family: Georgia, serif;
+  color:#3B4D5B ;
+}
 
 h1, h2, h3, h4 {
-  font-family: "Merriweather", serif;}
-@media (prefers-color-scheme: light) {
-  body {color: #3b3228;}
-  h1, h2, h3, h4 {
-  color: #006400;}}
+  font-family: "Merriweather", serif;
+  color: #3B4D5B;
+}
 
-@media (prefers-color-scheme: dark) {
-  body { color: #FFFDD0; }
-  h1, h2, h3, h4 { color: #FFFDD0; }}
+.navbar {
+  background-color: #3b4d5b !important;
+}
 
-@media (prefers-color-scheme: light) {
-  .navbar {
-    background-color: #2d6a4f   !important;}
-  .navbar a, .navbar .nav-link {
-    color: #ffffff !important;}}
+[data-bs-theme="dark"] .navbar {
+  background-color: unset !important;
+}
+
+.navbar .nav-link,
+.navbar a,
+.navbar-brand {
+  color: #ffffff !important;
+}

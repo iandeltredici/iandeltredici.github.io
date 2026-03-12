@@ -12,14 +12,14 @@ website:
       - projects.qmd
       - birds.qmd
       - resume.qmd
+    css: styles.css
       
 
 format:
   html:
     theme:
-      light: minty
-      dark: superhero
-    css: styles.css
+      light: [minty, styles.css]
+      dark: [superhero, dark-styles.css]
     toc: true
     page-layout: full
     include-after-body: _footer.html
